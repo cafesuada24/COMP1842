@@ -53,8 +53,7 @@ app.component('product-display', {
                     </button>
                 </div>
             </div>
-        </div>
-    </div>`,
+        </div>`,
 
     data() {
         return {
